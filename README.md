@@ -4,7 +4,7 @@ Account Kit lets people quickly register for and login to your app by using just
 
 __Screenshots__
 
-![alt tag](https://user-images.githubusercontent.com/13184472/46763570-fb504700-ccfb-11e8-9de8-46db159823de.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763574-fe4b3780-ccfb-11e8-8cc4-17eca5224496.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763581-01462800-ccfc-11e8-85b2-45daff76219e.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763584-04d9af00-ccfc-11e8-8b87-f22b14d9f04a.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763589-07d49f80-ccfc-11e8-8e61-2b64d10ebf83.png)
+![alt tag](https://user-images.githubusercontent.com/13184472/46763819-96e1b780-ccfc-11e8-89bd-f931456f4c73.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763814-96492100-ccfc-11e8-9ab1-ab9ec16f8753.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763815-96492100-ccfc-11e8-8bd9-c7a0f7d1728a.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763816-96e1b780-ccfc-11e8-896e-d3075b5c886a.png) ![alt tag](https://user-images.githubusercontent.com/13184472/46763817-96e1b780-ccfc-11e8-84ba-d1da646ae58d.png)
 
 # LICENCE
 
