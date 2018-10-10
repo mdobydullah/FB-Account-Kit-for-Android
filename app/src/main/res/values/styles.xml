@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppLoginTheme" parent="Theme.AccountKit">
+        <item name="com_accountkit_primary_color">#ff000000</item>
+        <item name="com_accountkit_primary_text_color">@android:color/white</item>
+        <item name="com_accountkit_secondary_text_color">#ff000000</item>
+        <item name="com_accountkit_status_bar_color">#ff000000</item>
+
+        <item name="com_accountkit_background_color">#ffffff</item>
+        <item name="com_accountkit_button_background_color">@color/red_400</item>
+        <item name="com_accountkit_button_border_color">@color/red_500</item>
+        <item name="com_accountkit_button_text_color">#ffffff</item>
+
+        <item name="com_accountkit_input_accent_color">#ffffff</item>
+        <item name="com_accountkit_input_border_color">#ffffff</item>
+    </style>
+
+</resources>

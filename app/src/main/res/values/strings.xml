@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FB Account Kit</string>
+
+    <string name="FACEBOOK_APP_ID">964234977027033</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">799de49b357b77afede08488ced2f721</string>
+    <string name="ak_login_protocol_scheme">ak964234977027033</string>
+
+</resources>
